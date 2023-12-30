@@ -1,6 +1,6 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
-# Implementation-of-Half-Adder-and-Full-Adder-circuit
+Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -34,21 +34,29 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
+### Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Gedipudi Darshani
+RegisterNumber:212223230062
+Half Adder:
+![image](https://github.com/Gedipudidarshani/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139340574/531dee5f-8a86-49cf-967e-9b4597897976)
+Full Adder:
+![image](https://github.com/Gedipudidarshani/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139340574/90280cc4-4565-4c3f-8d62-8a8fb1bd07ba)
+
+
 */
-Logic symbol & Truthtable
-RTL realization
+# Logic symbol & Truthtable
+![image](https://github.com/Gedipudidarshani/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139340574/8dca6364-8ced-4fed-8ed7-d007e6e9d2e0)
+
+# RTL realization
+![image](https://github.com/Gedipudidarshani/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139340574/103004c8-7bee-4dc5-819f-5d499a1fc3e3)
+
 
 ### Output:
-### RTL
-### TIMING DIAGRAM
+![image](https://github.com/Gedipudidarshani/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/139340574/83768995-fd01-4549-9685-99097ea04a80)
 
-
-### TRUTH TABLE 
 
 ### Result:
+To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
+
